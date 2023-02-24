@@ -127,6 +127,8 @@ b
 
 c
 
+![image](https://user-images.githubusercontent.com/116817673/221201676-2a4bf2f8-0197-448c-aec6-27df9a4e4bc3.png)
+
 # 4. CÁLCULO DE ERROR.
 
 ![image](https://user-images.githubusercontent.com/116817673/221187208-e4ba82ac-e239-4657-b458-12e7c208408c.png)
