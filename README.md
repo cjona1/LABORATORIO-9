@@ -98,3 +98,4 @@ Adjunto link donde se expicla  el  laboratorio 9:
 
 # 7. BIBLIOGRAFÍA
 
+Floyd, TL (2007). Principios de Circuitos Eléctricos. México: Pearson Educación. https://drive.google.com/file/d/1cGAWCJ4-yhAe1LyAXvmOeUhEmQVLy-zv/view
