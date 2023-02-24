@@ -76,18 +76,14 @@ Realizar los ejercicios sinn calculadora
 
 9.5.4  Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+1.1
+
+a
+
 ![image](https://user-images.githubusercontent.com/116817673/221192280-8d7c06eb-f0c1-4f66-8c40-667a30507615.png)
 
 ![image](https://user-images.githubusercontent.com/116817673/221192586-2ddc799a-e7c5-4190-8f9b-f92851104296.png)
 
-
-# 4. CÁLCULO DE ERROR.
-1.1
-
-a
-![image](https://user-images.githubusercontent.com/116817673/221187208-e4ba82ac-e239-4657-b458-12e7c208408c.png)
-
-![image](https://user-images.githubusercontent.com/116817673/221187130-e637a689-bdfd-47b6-832a-78da534bd832.png)
 
 b
 
@@ -128,6 +124,12 @@ a
 b
 
 c
+
+# 4. CÁLCULO DE ERROR.
+
+![image](https://user-images.githubusercontent.com/116817673/221187208-e4ba82ac-e239-4657-b458-12e7c208408c.png)
+
+![image](https://user-images.githubusercontent.com/116817673/221187130-e637a689-bdfd-47b6-832a-78da534bd832.png)
 
 
 # 5. VIDEO
