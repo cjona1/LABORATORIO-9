@@ -44,7 +44,7 @@ Realizar los ejercicios sinn calculadora
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-![image](https://user-images.githubusercontent.com/116817673/221185178-6d8f7b92-0cc9-49b1-bf0c-405fce77ac3a.png)![image](https://user-images.githubusercontent.com/116817673/221185568-144b5817-8253-41fc-81db-68edc949d3a8.png)
+![image](https://user-images.githubusercontent.com/116817673/221185178-6d8f7b92-0cc9-49b1-bf0c-405fce77ac3a.png)
 
 9.5.1 Sin emplear calculadora. Transforme a su forma polar.
 
