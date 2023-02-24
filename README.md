@@ -123,6 +123,8 @@ a
 
 b
 
+![image](https://user-images.githubusercontent.com/116817673/221197016-a3abdfc3-04fe-4a07-a850-fd4209811838.png)
+
 c
 
 # 4. CÁLCULO DE ERROR.
