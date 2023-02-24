@@ -76,11 +76,59 @@ Realizar los ejercicios sinn calculadora
 
 9.5.4  Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
-# 4. CÁLCULO DE ERROR.
+![image](https://user-images.githubusercontent.com/116817673/221192280-8d7c06eb-f0c1-4f66-8c40-667a30507615.png)
 
+![image](https://user-images.githubusercontent.com/116817673/221192586-2ddc799a-e7c5-4190-8f9b-f92851104296.png)
+
+
+# 4. CÁLCULO DE ERROR.
+1.1
+
+a
 ![image](https://user-images.githubusercontent.com/116817673/221187208-e4ba82ac-e239-4657-b458-12e7c208408c.png)
 
 ![image](https://user-images.githubusercontent.com/116817673/221187130-e637a689-bdfd-47b6-832a-78da534bd832.png)
+
+b
+
+![image](https://user-images.githubusercontent.com/116817673/221193091-9240b60e-96d6-45be-9536-a430a9990407.png)
+
+c
+
+![image](https://user-images.githubusercontent.com/116817673/221193302-55f4cd78-42a4-4e63-9f15-e39e655b6841.png)
+
+d
+
+![image](https://user-images.githubusercontent.com/116817673/221193385-aa3334cb-d5a8-4d04-aeb5-ca772d636680.png)
+
+1.2
+
+a
+
+![image](https://user-images.githubusercontent.com/116817673/221193929-0aae6aab-8fdf-4e4c-8d73-f16f0649531d.png)
+
+b
+
+![image](https://user-images.githubusercontent.com/116817673/221194392-1f0cff95-c72c-4a0e-b612-230de541a5a2.png)
+
+C
+
+![image](https://user-images.githubusercontent.com/116817673/221194609-34042cc2-5907-4468-b723-cb43272942e7.png)
+
+d
+
+![image](https://user-images.githubusercontent.com/116817673/221194842-7d336c21-0fef-495a-a5f7-ae87c8c87d0f.png)
+
+1.3
+
+a
+
+![image](https://user-images.githubusercontent.com/116817673/221195758-ebb026e7-667a-4040-a7c1-f2e31bbd9ef0.png)
+
+b
+
+c
+
 
 # 5. VIDEO
 
